@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+
+* {
+    font-family: 'Kanit', sans-serif;
+
+}
+.container {
+    text-align: center;
+  }
+
+  body {
+    color: #000000;
+    font-family: 'Prompt', sans-serif;
+    font-size: 14px;
+  }
+
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 60%;
+  }
+
+  td,
+  th {
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 5px;
+  }
+
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  .center-div {
+    width: 300px;
+    height: 200px;
+    background-color: lightblue;
+}
